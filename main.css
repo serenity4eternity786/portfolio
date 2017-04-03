@@ -1,0 +1,44 @@
+* {
+    font-family: 'Pavanam', sans-serif;
+    background-color: #FFFFFF;
+}
+
+title {
+    font: #646363;
+    font-size: 3rem;
+}
+
+intro {
+    font: #646363;
+    font-size: 1rem;
+}
+
+project1 {
+    font: #646363;
+    font-size: .75rem;
+}
+
+project2 {
+    font: #646363;
+    font-size: .75rem;
+}
+
+project3 {
+    font: #646363;
+    font-size: .75rem;
+}
+
+languages {
+    font: #646363;
+    font-size: 1rem;
+}
+
+contact {
+    font: #646363;
+    font-size: 1rem;
+}
+
+social {
+    font: #646363;
+    font-size: 1rem;
+}

@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 # Epic: 
 To display the projects that I have created during my time at Thinkful.
